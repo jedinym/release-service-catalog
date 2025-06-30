@@ -789,7 +789,7 @@ spec:
           - name: url
             value: https://github.com/konflux-ci/mobster.git
           - name: revision
-            value: ISV-5875
+            value: main
           - name: pathInRepo
             value: tasks/augment-component-sboms-ta/0.1/augment-component-sboms-ta.yaml
         resolver: git
